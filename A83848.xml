@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings Most Excellent Maiesty, the humble petition of the Commons of the late Parliament, and others His Majesties loyall subjects in Scotland. Together with His Majesties gracious answer thereunto.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83848</idno><idno type="EEBO-CITATION">99868312</idno>
+  <idno type="VID">120654</idno>
+  <idno type="EEBO-PROQUEST">2240964989</idno>
+  
+            <idno type="STC">Wing E2743</idno>
+            <idno type="STC">Thomason E86_9</idno>
+            <idno type="STC">ESTC R20943</idno>
+            <idno type="PROQUEST">99868312</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868312e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120654)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings Most Excellent Maiesty, the humble petition of the Commons of the late Parliament, and others His Majesties loyall subjects in Scotland. Together with His Majesties gracious answer thereunto.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The loyal subjects refer to the Scottish forces at Durham.</note>
+                  <note>Annotation on Thomason copy: "Jan: 26. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120654:1"/>
+            <p>TO THE KINGS Most Excellent MAIESTY, The humble Petition of the Commons of the late Parliament, and others His Majesties loyall Subjects, in Scotland. Together with his Majesties gracious Answer thereunto.</p>
+            <p>Printed in the yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:120654:2"/>
+            <pb facs="tcp:120654:2"/>
+            <head>To The Kings most excellent Majesty.</head>
+            <head>The humble Petition of the Commons of the late Par<g ref="char:EOLhyphen"/>liament, and other His Majesties lay all Sub<g ref="char:EOLhyphen"/>jects, in Scotland.</head>
+            <opener>Humbly shewes,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas after our many sufferings this time past, extreame necessity hath con<g ref="char:EOLhyphen"/>strayned us for our reliefe, and obtaining our humble and just desires, to come into England, where according to our inten<g ref="char:EOLhyphen"/>tions formerly declared; wee have in all our journey lived upon our meanes,
+<pb facs="tcp:120654:3"/> victualls, and goods brought along with us, neither troubling the peace of the Kingdome, nor harming any of his Ma<g ref="char:EOLhyphen"/>jesties Subjects, of whatsoever quality, in a most peaceable manner, till wee were pressed by strength of Armes to put such forces out of the way, did wich out deser<g ref="char:EOLhyphen"/>ving, and as some of them at the point of death, confessed, against their owne con<g ref="char:EOLhyphen"/>science, opposed our peaceable passage at Neverborne on Tyne, and have brought their own bloud upon their owne heads, against our purposes and desires in our letters sent to them at Newcastle, for pre<g ref="char:EOLhyphen"/>venting the like or greater inco<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces: And that wee may without further opposition come unto your Majesties presence, for obtayning from your Maje<g ref="char:EOLhyphen"/>sties justice and goodnesse, satisfaction to our demands; wee your Majesties most loyall and humble Subjects do still in that
+<pb facs="tcp:120654:3"/> way persist in petitioning which we kept since the beginning, and for the which no provocation of your Majesties ene<g ref="char:EOLhyphen"/>mies and ours, no adversity we have hi<g ref="char:EOLhyphen"/>therto sustained, no prosperous successe that can befall us, shall bee able to divert our minds; most humbly intreating that your Majesty would in the depth of your royall wisdome, consider at last our pres<g ref="char:EOLhyphen"/>sing grievances, and provide for the re<g ref="char:EOLhyphen"/>payring of our wrongs, and losses, and with the advice and consent of the state of the Kingdome of England convened in Parliament, settle a firme and durable peace against all invasions by sea or land, that we may by cheerefulnes of heart re<g ref="char:EOLhyphen"/>pay unto your Majesty, as our native King, all the duty and obedience that can be expected from loyal Subjects; and that against the many and great evills, which at this time threaten both Kingdomes
+<pb facs="tcp:120654:4"/> whereof all your Majesties good an<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving Subjects tremble to thinke, and who we beseech the God Almighty unani<g ref="char:EOLhyphen"/>mously to avert your Majesties throne from, that it may bee established in the midst of us in religion and righteousnes; and your Majesties gratious answer, wee humbly desire, and earnestly wait for.</p>
+         </div>
+         <div type="answer">
+            <pb facs="tcp:120654:4"/>
+            <head>His Majesties answer to the said Petition.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty, hath seene and considered this within written Petition and is gratiously pleased to return this An<g ref="char:EOLhyphen"/>swer by me; That he sends it in such generall tearmes, that till you expresse the particu<g ref="char:EOLhyphen"/>lers of your desires, His majesty can give no direct answer thereunto. Therefore His Majesty requires that you set down the particulers of your demands with expedition, he having bin alwaies willing to heare and redresses the grievances of his people. And for the more mature deliberation of these great affaires, our summons for the meeting of the Peeres of this Kingdome, in the City of Yorke, upon the 24. day of this instant moneth, that so with the advice of the Peeres, you may receive such answers to your Petition, as shall most tend to his honour, the peace and welfare of his dominions: And in the meane time if peace it be that you desire, as you pretend, hee expects
+<pb facs="tcp:120654:5"/> and by these His Majesties comands that you ad<g ref="char:EOLhyphen"/>vance no further with your Armes to these p<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, which is the onely meanes that is left for the pre<g ref="char:EOLhyphen"/>sent, to preserve the peace between the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions, and to bring their unhappy differences to a reconciliation, which none is more desirous t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his most sacred Majesty.</p>
+            <closer>
+               <signed>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ick.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
